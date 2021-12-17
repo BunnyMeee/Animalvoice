@@ -1,0 +1,35 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    background-color: rgb(236, 171, 193);
+    
+}
+.header_div{
+    background-color: rgb(131, 112, 216);
+    color:rgb(30, 46, 119);
+    
+}
+.header_div p{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(81, 0, 128);
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.main_div button {
+font-family: fantasy;
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    background-color: rgb(235, 168, 130);
+    color:rgb(128, 51, 0);
+    text-shadow: 5px 5px 5px rgb(179, 103, 80);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
