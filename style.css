@@ -22,7 +22,7 @@ width: 130px;
 font-weight: bolder;
 letter-spacing: 3px;
 }
-.copy_right_footer {
+.copyright_footer {
     position: fixed;
     bottom: 0;
     width:100%;
@@ -32,4 +32,4 @@ letter-spacing: 3px;
     background-color: rgb(235, 168, 130);
     color:rgb(128, 51, 0);
     text-shadow: 5px 5px 5px rgb(179, 103, 80);
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: monospace;}
